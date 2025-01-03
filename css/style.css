@@ -1,0 +1,36 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 40;
+}
+
+header {
+    background-color: #FAF3E0;
+}
+
+nav {
+    background-color: #708090;
+}
+
+main {
+    background-color: #FAF3E0;
+    font-size: 35;
+}
+
+footer {
+    background-color: #FAF3E0;
+}
+
+li {
+    display: block;
+    width: 80%;
+}
+
+h1 {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #333333;
+}
+
+p {
+    height: 80%;
+}
